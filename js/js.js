@@ -12,5 +12,5 @@ function cambioBienPro(){
 		alert("Si le sabes wey, te vas a hacer millonario");
 	}
 }
-//Se crea el evento click
+//Se crea el evento click   
 select.addEventListener("click", cambioBienPro);
